@@ -2,11 +2,7 @@ lego-env/
 **/.DS_Store
 **/.ipynb_checkpoints
 
-outputs/**
-!outputs/
-!outputs/**/
-!outputs/**/*.gif
-
+outputs/**/*.png
 arrange_figs.ipynb
 figures/
 
