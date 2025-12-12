@@ -1,6 +1,5 @@
-<img src="docs/LEGO-gen_logo.png" align="right" width="140" style="margin-left: 20px;"/>
-
 # LEGO-gen
+<img src="docs/LEGO-gen_logo.png" align="right" width="140" style="margin-left: 20px;"/>
 
 
 **LEGO-gen** is a probabilistic generative model implemented in *Gen.jl*, designed to reconstruct 3D LEGO structures from 2D observations.
