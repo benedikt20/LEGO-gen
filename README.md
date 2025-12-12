@@ -4,6 +4,9 @@
 
 **LEGO-gen** is a probabilistic generative model implemented in *Gen.jl*, designed to reconstruct 3D LEGO structures from 2D observations.
 
+add gif
+![LEGO-gen Animation](outputs/layer_two_view/table-animation.gif)
+
 ### Overview
 The project compares a baseline method, Sequential Metropolis-Hastings, with a cognitively inspired layer-wise approach that mimics human strategies for building LEGO models. The layer-wise method demonstrates improved efficiency and accuracy in reconstructing complex structures.
 
