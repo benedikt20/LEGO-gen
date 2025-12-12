@@ -4,7 +4,6 @@
 
 **LEGO-gen** is a probabilistic generative model implemented in *Gen.jl*, designed to reconstruct 3D LEGO structures from 2D observations.
 
-add gif
 ![LEGO-gen Animation](outputs/layer_two_view/table-animation.gif)
 
 ### Overview
